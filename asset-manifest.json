@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/deploystan/static/css/main.073c9b0a.css",
-    "main.js": "/deploystan/static/js/main.8c8f2ec8.js",
-    "static/js/787.a98c7534.chunk.js": "/deploystan/static/js/787.a98c7534.chunk.js",
-    "index.html": "/deploystan/index.html",
-    "main.073c9b0a.css.map": "/deploystan/static/css/main.073c9b0a.css.map",
-    "main.8c8f2ec8.js.map": "/deploystan/static/js/main.8c8f2ec8.js.map",
-    "787.a98c7534.chunk.js.map": "/deploystan/static/js/787.a98c7534.chunk.js.map"
+    "main.css": "/deploysatan/static/css/main.073c9b0a.css",
+    "main.js": "/deploysatan/static/js/main.5828a044.js",
+    "static/js/787.a98c7534.chunk.js": "/deploysatan/static/js/787.a98c7534.chunk.js",
+    "index.html": "/deploysatan/index.html",
+    "main.073c9b0a.css.map": "/deploysatan/static/css/main.073c9b0a.css.map",
+    "main.5828a044.js.map": "/deploysatan/static/js/main.5828a044.js.map",
+    "787.a98c7534.chunk.js.map": "/deploysatan/static/js/787.a98c7534.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.8c8f2ec8.js"
+    "static/js/main.5828a044.js"
   ]
 }
