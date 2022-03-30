@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/deploystan/static/css/main.073c9b0a.css",
-    "main.js": "/deploystan/static/js/main.7c4b9bd1.js",
+    "main.js": "/deploystan/static/js/main.f968818f.js",
     "static/js/787.a98c7534.chunk.js": "/deploystan/static/js/787.a98c7534.chunk.js",
     "index.html": "/deploystan/index.html",
     "main.073c9b0a.css.map": "/deploystan/static/css/main.073c9b0a.css.map",
-    "main.7c4b9bd1.js.map": "/deploystan/static/js/main.7c4b9bd1.js.map",
+    "main.f968818f.js.map": "/deploystan/static/js/main.f968818f.js.map",
     "787.a98c7534.chunk.js.map": "/deploystan/static/js/787.a98c7534.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.7c4b9bd1.js"
+    "static/js/main.f968818f.js"
   ]
 }
