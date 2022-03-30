@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/deploystan/static/css/main.073c9b0a.css",
+    "main.js": "/deploystan/static/js/main.dd05b1e6.js",
+    "static/js/787.a98c7534.chunk.js": "/deploystan/static/js/787.a98c7534.chunk.js",
+    "static/media/logo.svg": "/deploystan/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/deploystan/index.html",
+    "main.073c9b0a.css.map": "/deploystan/static/css/main.073c9b0a.css.map",
+    "main.dd05b1e6.js.map": "/deploystan/static/js/main.dd05b1e6.js.map",
+    "787.a98c7534.chunk.js.map": "/deploystan/static/js/787.a98c7534.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.dd05b1e6.js"
+  ]
+}
